@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        SharedPreferences sharedPreferences = this.getSharedPreferences(com.luminous.android.sharedpreferences, )
+        SharedPreferences sharedPreferences = this.getSharedPreferences("com.luminous.android.sharedpreferences", )
     }
 }
