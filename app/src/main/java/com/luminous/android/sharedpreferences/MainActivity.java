@@ -48,6 +48,5 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("New Friends", newFrieds.toString());
     }
-
-
+    
 }
